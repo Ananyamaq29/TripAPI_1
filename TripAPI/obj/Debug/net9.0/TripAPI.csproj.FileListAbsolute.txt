@@ -147,6 +147,7 @@ C:\Users\AnanyaAgarwalMAQSoft\Desktop\test\TripAPI\obj\Debug\net9.0\TripAPI.Asse
 C:\Users\AnanyaAgarwalMAQSoft\Desktop\test\TripAPI\obj\Debug\net9.0\TripAPI.csproj.CoreCompileInputs.cache
 C:\Users\AnanyaAgarwalMAQSoft\Desktop\test\TripAPI\obj\Debug\net9.0\TripAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\AnanyaAgarwalMAQSoft\Desktop\test\TripAPI\obj\Debug\net9.0\TripAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AnanyaAgarwalMAQSoft\Desktop\test\TripAPI\obj\Debug\net9.0\TripAPI.sourcelink.json
 C:\Users\AnanyaAgarwalMAQSoft\Desktop\test\TripAPI\obj\Debug\net9.0\scopedcss\bundle\TripAPI.styles.css
 C:\Users\AnanyaAgarwalMAQSoft\Desktop\test\TripAPI\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\AnanyaAgarwalMAQSoft\Desktop\test\TripAPI\obj\Debug\net9.0\staticwebassets.development.json
