@@ -15,3 +15,4 @@ namespace TripAPI.Models
         public DbSet<Trip> Trips { get; set; }
     }
 }
+
